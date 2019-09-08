@@ -1,5 +1,11 @@
 # Word Scrambler
 
+1. [Description](#description)
+2. [Prerequisites](#prerequisites)
+3. [Prompt](#prompt)
+4. [Testing](#testing)
+5. [Extensions](#extensions)
+
 ## Description
 
 Aanlrtppey eevn wehn wodrs are all smraelcbd , as lnog as the frsit and lsat ltteer saty the smae , yuor biarn can slitl raed it! At least, that's what some clickbait article said.
